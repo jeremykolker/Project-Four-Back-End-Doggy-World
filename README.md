@@ -1,1 +1,1 @@
-# Project-Four-Back-End
+Built fully with Python, uses Postgresql DB, REST API
